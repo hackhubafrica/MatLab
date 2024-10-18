@@ -1,0 +1,1 @@
+\frac{d^2\theta}{dt^2}=\frac{1}{J}\left(T-Kd\frac{d\theta}{dt}\right)

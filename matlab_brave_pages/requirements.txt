@@ -1,0 +1,6 @@
+pysolar 
+astral
+simple-pid
+scipy
+numpy
+matplotlib

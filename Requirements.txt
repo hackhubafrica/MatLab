@@ -1,0 +1,7 @@
+# for GNU-octave
+pkg install -forge control signal optim statistics odepkg symbolic
+pkg load control signal optim statistics odepkg symbolic
+
+
+
+

@@ -1,0 +1,14 @@
+#Control System Toolbox
+#DSP System Toolbox
+#Signal Processing ToolboxM
+Model Predictive Control Toolbox
+RF Toolbox
+Symbolic Math Toolbox.
+
+
+dsolve('Dy+y=x*exp(x)*y','y(0)=1','x')
+
+>> dsolve('Dy+y=x*exp(x)*y','y(0)=1','x')
+dsolve requires Symbolic Math Toolbox.
+ 
+>> 
